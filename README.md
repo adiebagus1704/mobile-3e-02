@@ -34,4 +34,3 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 Ttd,
 
 ***Adie Bagus Satrio***
-"# mobile-3e-02" 
