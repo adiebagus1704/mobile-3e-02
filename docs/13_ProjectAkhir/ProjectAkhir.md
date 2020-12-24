@@ -22,7 +22,7 @@
 |  |  |
 |--|--|
 | Nama Aplikasi | **Kisah Nabi dan Rasul** |
-| Link Source Code | () |
+| Link Source Code | https://github.com/adiebagus1704/mobile-3e-02/tree/master/src/13_ProjectAkhir/KisahNabidanRasul |
 | Bahasa Pemrograman | **Java** |
 
 
